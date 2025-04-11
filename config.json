@@ -1,8 +1,10 @@
 {
   "devMode": "false",
-  "advancedMode": "false",
+  "advancedMode": "true",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "logs_spotter",
+    "kkiapay-flutter-sdk",
+    "spotter_panel"
   ]
 }
