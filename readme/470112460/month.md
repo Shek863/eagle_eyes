@@ -1,0 +1,392 @@
+## [🔙 eagle_eyes](https://github.com/Shek863/eagle_eyes)
+| [**Week →**](https://github.com/Shek863/eagle_eyes/blob/master/readme/470112460/week.md) | [**Month →**](https://github.com/Shek863/eagle_eyes/blob/master/readme/470112460/month.md) | [**Year →**](https://github.com/Shek863/eagle_eyes/blob/master/readme/470112460/year.md) |
+| ---- | ---- | ----- |
+### :octocat: [kkiapay-flutter-sdk](https://github.com/Shek863/kkiapay-flutter-sdk)
+![Image of eagle_eyes](https://github.com/Shek863/eagle_eyes/blob/master/graph/470112460/large/month.png)
+
+<details>
+	<summary>Click to expand table</summary>
+	<h2>:calendar: Month Page Views Table</h2>
+<table>
+	<tr>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Count
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/4/11</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/4/10</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/4/9</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/4/8</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/4/7</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/4/6</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/4/5</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/4/4</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/4/3</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/4/2</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/4/1</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/31</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/30</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/29</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/28</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/27</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/26</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/25</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/24</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/23</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/22</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/21</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/20</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/19</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/18</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/17</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/16</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/15</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/14</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/13</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2025/3/12</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+</table>
+
+</details>
+<small><i>Last updated on 2025/4/11 3:59 PM UTC</i></small>
+
+## ✂️Copy and 📋 Paste
+### SVG Badge
+[![Image of eagle_eyes](https://github.com/Shek863/eagle_eyes/blob/master/svg/470112460/badge.svg)](https://github.com/Shek863/eagle_eyes/blob/master/readme/470112460/week.md)
+```readme
+[![Image of eagle_eyes](https://github.com/Shek863/eagle_eyes/blob/master/svg/470112460/badge.svg)](https://github.com/Shek863/eagle_eyes/blob/master/readme/470112460/week.md)
+```
+### Header
+# kkiapay-flutter-sdk [<img alt="Image of eagle_eyes" src="https://github.com/Shek863/eagle_eyes/blob/master/graph/470112460/small/week.png" height="20">](https://github.com/Shek863/eagle_eyes/blob/master/readme/470112460/week.md)
+```readme
+# kkiapay-flutter-sdk [<img alt="Image of eagle_eyes" src="https://github.com/Shek863/eagle_eyes/blob/master/graph/470112460/small/week.png" height="20">](https://github.com/Shek863/eagle_eyes/blob/master/readme/470112460/week.md)
+```
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
+## 📦 Third party
+
+- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
+- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
+## 📄 License
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice/github-profile-views-counter)
+- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
