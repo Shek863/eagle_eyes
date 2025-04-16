@@ -1,8 +1,8 @@
 ## [🔙 eagle_eyes](https://github.com/Shek863/eagle_eyes)
-| [**Week →**](https://github.com/Shek863/eagle_eyes/blob/master/readme/936112139/week.md) | [**Month →**](https://github.com/Shek863/eagle_eyes/blob/master/readme/936112139/month.md) | [**Year →**](https://github.com/Shek863/eagle_eyes/blob/master/readme/936112139/year.md) |
+| [**Week →**](https://github.com/Shek863/eagle_eyes/blob/master/readme/414736908/week.md) | [**Month →**](https://github.com/Shek863/eagle_eyes/blob/master/readme/414736908/month.md) | [**Year →**](https://github.com/Shek863/eagle_eyes/blob/master/readme/414736908/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [spotter_panel](https://github.com/Shek863/spotter_panel)
-![Image of eagle_eyes](https://github.com/Shek863/eagle_eyes/blob/master/graph/936112139/large/year.png)
+### :octocat: [Shek863](https://github.com/Shek863/Shek863)
+![Image of eagle_eyes](https://github.com/Shek863/eagle_eyes/blob/master/graph/414736908/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -24,10 +24,10 @@
 			<code>2025/4/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>11</code>
 		</td>
 	</tr>
 	<tr>
@@ -169,14 +169,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of eagle_eyes](https://github.com/Shek863/eagle_eyes/blob/master/svg/936112139/badge.svg)](https://github.com/Shek863/eagle_eyes/blob/master/readme/936112139/week.md)
+[![Image of eagle_eyes](https://github.com/Shek863/eagle_eyes/blob/master/svg/414736908/badge.svg)](https://github.com/Shek863/eagle_eyes/blob/master/readme/414736908/week.md)
 ```readme
-[![Image of eagle_eyes](https://github.com/Shek863/eagle_eyes/blob/master/svg/936112139/badge.svg)](https://github.com/Shek863/eagle_eyes/blob/master/readme/936112139/week.md)
+[![Image of eagle_eyes](https://github.com/Shek863/eagle_eyes/blob/master/svg/414736908/badge.svg)](https://github.com/Shek863/eagle_eyes/blob/master/readme/414736908/week.md)
 ```
 ### Header
-# spotter_panel [<img alt="Image of eagle_eyes" src="https://github.com/Shek863/eagle_eyes/blob/master/graph/936112139/small/week.png" height="20">](https://github.com/Shek863/eagle_eyes/blob/master/readme/936112139/week.md)
+# Shek863 [<img alt="Image of eagle_eyes" src="https://github.com/Shek863/eagle_eyes/blob/master/graph/414736908/small/week.png" height="20">](https://github.com/Shek863/eagle_eyes/blob/master/readme/414736908/week.md)
 ```readme
-# spotter_panel [<img alt="Image of eagle_eyes" src="https://github.com/Shek863/eagle_eyes/blob/master/graph/936112139/small/week.png" height="20">](https://github.com/Shek863/eagle_eyes/blob/master/readme/936112139/week.md)
+# Shek863 [<img alt="Image of eagle_eyes" src="https://github.com/Shek863/eagle_eyes/blob/master/graph/414736908/small/week.png" height="20">](https://github.com/Shek863/eagle_eyes/blob/master/readme/414736908/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
